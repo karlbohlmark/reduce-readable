@@ -1,0 +1,11 @@
+{
+  "name": "reduce-readable",
+  "version": "1.0.0",
+  "description": "Reduce readable stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Karl Böhlmark <karl.bohlmark@gmail.com>",
+  "license": "ISC"
+}
